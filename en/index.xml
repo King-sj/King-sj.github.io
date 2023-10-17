@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hugo Zzo Theme</title>
+    <link>http://King-sj.github.io/en/</link>
+    <description>Recent content on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    
+        <atom:link href="http://King-sj.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>http://King-sj.github.io/en/posts/shortcodes/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/shortcodes/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcodeCode tabs Make it easy to switch between different code
+javajavascript1 System.out.println(&amp;#39;Hello World!&amp;#39;); 1 console.log(&amp;#39;Hello World!&amp;#39;); Tabs for general purpose WindowsMacOSUbuntuWindows section 1 console.log(&amp;#39;Hello World!&amp;#39;); ⚠️Becareful that the content in the tab should be different from each other. The tab makes unique id hashes depending on the tab contents. So, If you just copy-paste the tabs with multiple times, since it has the same contents, the tab will not work.</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>http://King-sj.github.io/en/posts/markdown-syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        
+        <dc:creator>Choi</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+            
+              <category>css</category>
+            
+          
+            
+              <category>html</category>
+            
+          
+            
+              <category>themes</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Syntax highlighting</title>
+        <link>http://King-sj.github.io/en/posts/syntax-highlight/</link>
+        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/syntax-highlight/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        
+        <dc:creator>Jeus</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Math Typesetting</title>
+        <link>http://King-sj.github.io/en/posts/math-typesetting/</link>
+        <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Tue, 17 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/math-typesetting/</guid>
+        <description>&lt;div class=&#34;box&#34;&gt;
+We need goldmark katex entension which is not yet we have: 
+[https://github.com/gohugoio/hugo/issues/6544](https://github.com/gohugoio/hugo/issues/6544)
+&lt;/div&gt;
+&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+        
+        <dc:creator>Park</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>http://King-sj.github.io/en/posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        <dc:creator>Kim</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+            
+              <category>gamoji</category>
+            
+          
+            
+              <category>namoji</category>
+            
+          
+            
+              <category>bamoji</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Viz support</title>
+        <link>http://King-sj.github.io/en/posts/test-viz/</link>
+        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-viz/</guid>
+        <description> digraph G {subgraph cluster_0 {style=filled;color=lightgrey;node [style=filled,color=white];a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3;label = &amp;#34;process #1&amp;#34;;}subgraph cluster_1 {node [style=filled];b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3;label = &amp;#34;process #2&amp;#34;;color=blue}start -&amp;gt; a0;start -&amp;gt; b0;a1 -&amp;gt; b3;b2 -&amp;gt; a3;a3 -&amp;gt; a0;a3 -&amp;gt; end;b3 -&amp;gt; end;start [shape=Mdiamond];end [shape=Msquare];} </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Wavedrom support</title>
+        <link>http://King-sj.github.io/en/posts/test-wavedrom/</link>
+        <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-wavedrom/</guid>
+        <description>{ &amp;#34;signal&amp;#34;: [ {&amp;#34;name&amp;#34;: &amp;#34;CLK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;p.....|...&amp;#34;},{&amp;#34;name&amp;#34;:&amp;#34;DAT&amp;#34;, &amp;#34;wave&amp;#34;:&amp;#34;x.345x|=.x&amp;#34;, &amp;#34;data&amp;#34;:[&amp;#34;A&amp;#34;,&amp;#34;B&amp;#34;,&amp;#34;C&amp;#34;,&amp;#34;D&amp;#34;]},{&amp;#34;name&amp;#34;: &amp;#34;REQ&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;0.1..0|1.0&amp;#34;},{},{&amp;#34;name&amp;#34;: &amp;#34;ACK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;1.....|01.&amp;#34;}]} </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Chart support</title>
+        <link>http://King-sj.github.io/en/posts/test-chartjs/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-chartjs/</guid>
+        <description>{&amp;#34;type&amp;#34;: &amp;#34;bar&amp;#34;,&amp;#34;data&amp;#34;: {&amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;],&amp;#34;datasets&amp;#34;: [{&amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;,&amp;#34;data&amp;#34;: [12, 19, 3, 5, 3, 8]}]}} {&amp;#34;type&amp;#34;: &amp;#34;line&amp;#34;,&amp;#34;data&amp;#34;: {&amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;],&amp;#34;datasets&amp;#34;: [{&amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;,&amp;#34;data&amp;#34;: [12, 19, 3, 5, 2, 3],&amp;#34;backgroundColor&amp;#34;:&amp;#34;transparent&amp;#34;,&amp;#34;borderColor&amp;#34;:&amp;#34;orange&amp;#34;},{&amp;#34;label&amp;#34;: &amp;#34;Some other set&amp;#34;,&amp;#34;data&amp;#34;: [15, 8, 13, 5, 5, 9],&amp;#34;backgroundColor&amp;#34;:&amp;#34;transparent&amp;#34;,&amp;#34;borderColor&amp;#34;:&amp;#34;#44ccff&amp;#34;}]}} </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JS Sequence Diagram support</title>
+        <link>http://King-sj.github.io/en/posts/test-js-sequence-diagrams/</link>
+        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-js-sequence-diagrams/</guid>
+        <description>Alice-&amp;gt;Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob--&amp;gt;Alice: I am good thanks! Title: Here is a titleA-&amp;gt;B: Normal lineB--&amp;gt;C: Dashed lineC-&amp;gt;&amp;gt;D: Open arrowD--&amp;gt;&amp;gt;A: Dashed open arrow </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature2/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Mermaid support</title>
+        <link>http://King-sj.github.io/en/posts/test-mermaid/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-mermaid/</guid>
+        <description>graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D; sequenceDiagramparticipant Aliceparticipant BobAlice-&amp;gt;John: Hello John, how are you?loop HealthcheckJohn-&amp;gt;John: Fight against hypochondriaendNote right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...John--&amp;gt;Alice: Great!John-&amp;gt;Bob: How about you?Bob--&amp;gt;John: Jolly good! graph TDA[Hard] --&amp;gt;|Text| B(Round)B --&amp;gt; C{Decision}C --&amp;gt;|One| D[Result 1]C --&amp;gt;|Two| E[Result 2] ganttsection SectionCompleted :done, des1, 2014-01-06,2014-01-08Active :active, des2, 2014-01-07, 3dParallel 1 : des3, after des1, 1dParallel 2 : des4, after des1, 1dParallel 3 : des5, after des3, 1dParallel 4 : des6, after des4, 1d classDiagramClass01 &amp;lt;|-- AveryLongClass : Cool&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01Class09 --&amp;gt; C2 : Where am i?</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>MathJax support</title>
+        <link>http://King-sj.github.io/en/posts/test-mathjax/</link>
+        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-mathjax/</guid>
+        <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Katex support</title>
+        <link>http://King-sj.github.io/en/posts/test-katex/</link>
+        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-katex/</guid>
+        <description>The following
+$$ \int_{a}^{b} x^2 dx $$
+Is an integral
+$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
+Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
+See the online reference of supported TeX functions.
+Note: For inline math to render correctly, your content file extension must be .mmark. See the official mmark site.
+Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Flowchart support</title>
+        <link>http://King-sj.github.io/en/posts/test-flowchart/</link>
+        <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/test-flowchart/</guid>
+        <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]e=&amp;gt;end: End|future:&amp;gt;http://www.google.comop1=&amp;gt;operation: My Operation|pastop2=&amp;gt;operation: Stuff|currentsub1=&amp;gt;subroutine: My Subroutine|invalidcond=&amp;gt;condition: Yesor No?|approved:&amp;gt;http://www.google.comc2=&amp;gt;condition: Good idea|rejectedio=&amp;gt;inputoutput: catch something...|futurest-&amp;gt;op1(right)-&amp;gt;condcond(yes, right)-&amp;gt;c2cond(no)-&amp;gt;sub1(left)-&amp;gt;op1c2(yes)-&amp;gt;io-&amp;gt;ec2(no)-&amp;gt;op2-&amp;gt;e </description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>diagram</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

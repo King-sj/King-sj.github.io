@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Galleries on Hugo Zzo Theme</title>
+    <link>http://King-sj.github.io/ko/gallery/</link>
+    <description>Recent content in Galleries on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
+    
+        <atom:link href="http://King-sj.github.io/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Photo</title>
+        <link>http://King-sj.github.io/ko/gallery/photo/</link>
+        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
+        <guid>http://King-sj.github.io/ko/gallery/photo/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>http://King-sj.github.io/ko/gallery/cartoon/</link>
+        <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
+        <guid>http://King-sj.github.io/ko/gallery/cartoon/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

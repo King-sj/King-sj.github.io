@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>shortcode on Hugo Zzo Theme</title>
+    <link>http://King-sj.github.io/en/tags/shortcode/</link>
+    <description>Recent content in shortcode on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="http://King-sj.github.io/en/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>http://King-sj.github.io/en/posts/shortcodes/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
+        <guid>http://King-sj.github.io/en/posts/shortcodes/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcodeCode tabs Make it easy to switch between different code
+javajavascript1 System.out.println(&amp;#39;Hello World!&amp;#39;); 1 console.log(&amp;#39;Hello World!&amp;#39;); Tabs for general purpose WindowsMacOSUbuntuWindows section 1 console.log(&amp;#39;Hello World!&amp;#39;); ⚠️Becareful that the content in the tab should be different from each other. The tab makes unique id hashes depending on the tab contents. So, If you just copy-paste the tabs with multiple times, since it has the same contents, the tab will not work.</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="http://King-sj.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
