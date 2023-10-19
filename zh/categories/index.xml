@@ -14,11 +14,29 @@
     <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
     <webMaster>2175616761@qq.com (KSJ)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://King-sj.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>oi</title>
+        <link>http://King-sj.github.io/zh/categories/oi/</link>
+        <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+        <author>2175616761@qq.com (KSJ)</author>
+        
+        <guid>http://King-sj.github.io/zh/categories/oi/</guid>
+        <description></description>
+        
+        <dc:creator>KSJ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>hugo</title>

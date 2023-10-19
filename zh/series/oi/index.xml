@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on KSJ blog</title>
-    <link>http://King-sj.github.io/zh/posts/</link>
-    <description>Recent content in Posts on KSJ blog</description>
+    <title>oi on KSJ blog</title>
+    <link>http://King-sj.github.io/zh/series/oi/</link>
+    <description>Recent content in oi on KSJ blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://King-sj.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://King-sj.github.io/zh/series/oi/index.xml" rel="self" type="application/rss+xml" />
     
 
       
