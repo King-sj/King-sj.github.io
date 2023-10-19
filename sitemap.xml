@@ -9,6 +9,11 @@
   </sitemap>
   
   <sitemap>
+    <loc>http://King-sj.github.io/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
     <loc>http://King-sj.github.io/ko/sitemap.xml</loc>
     
       <lastmod>2019-10-19T11:44:14+09:00</lastmod>

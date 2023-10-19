@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Abouts on Hugo Zzo Theme</title>
+    <link>http://King-sj.github.io/en/about/</link>
+    <description>Recent content in Abouts on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
+    <webMaster>2175616761@qq.com (KSJ)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://King-sj.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>About</title>
+        <link>http://King-sj.github.io/en/about/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <author>2175616761@qq.com (KSJ)</author>
+        <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
+        <guid>http://King-sj.github.io/en/about/</guid>
+        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/russross/blackfriday https://github.</description>
+        
+        <dc:creator>KSJ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -11,8 +11,8 @@
     <description>Recent content in hugo on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
+    <webMaster>2175616761@qq.com (KSJ)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 18 Dec 2019 10:33:41 +0900</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Syntax highlighting</title>
         <link>http://King-sj.github.io/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>2175616761@qq.com (KSJ)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
         <guid>http://King-sj.github.io/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>

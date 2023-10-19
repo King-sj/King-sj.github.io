@@ -12,6 +12,11 @@
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="http://King-sj.github.io/ko/"
                 />
@@ -37,6 +42,11 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="http://King-sj.github.io/ko/posts/"
                 />
@@ -56,6 +66,11 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="http://King-sj.github.io/ko/tags/"
                 />
@@ -73,6 +88,11 @@
   </url><url>
     <loc>http://King-sj.github.io/en/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -98,6 +118,11 @@
   </url><url>
     <loc>http://King-sj.github.io/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -264,6 +289,24 @@
                 href="http://King-sj.github.io/en/about/"
                 />
   </url><url>
+    <loc>http://King-sj.github.io/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://King-sj.github.io/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://King-sj.github.io/en/about/"
+                />
+  </url><url>
     <loc>http://King-sj.github.io/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -274,6 +317,11 @@
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://King-sj.github.io/en/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://King-sj.github.io/zh/tags/index/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
