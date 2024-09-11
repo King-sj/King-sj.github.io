@@ -1,60 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>diagram on Hugo Zzo Theme</title>
-    <link>http://King-sj.github.io/en/tags/diagram/</link>
-    <description>Recent content in diagram on Hugo Zzo Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
-    <webMaster>2175616761@qq.com (KSJ)</webMaster>
-    <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 17 Nov 2019 12:00:06 +0900</lastBuildDate>
-    
-        <atom:link href="http://King-sj.github.io/en/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
-    
-
-      
-      <item>
-        <title>Mermaid support</title>
-        <link>http://King-sj.github.io/en/posts/test-mermaid/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-mermaid/</guid>
-        <description>graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D; sequenceDiagramparticipant Aliceparticipant BobAlice-&amp;gt;John: Hello John, how are you?loop HealthcheckJohn-&amp;gt;John: Fight against hypochondriaendNote right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...John--&amp;gt;Alice: Great!John-&amp;gt;Bob: How about you?Bob--&amp;gt;John: Jolly good! graph TDA[Hard] --&amp;gt;|Text| B(Round)B --&amp;gt; C{Decision}C --&amp;gt;|One| D[Result 1]C --&amp;gt;|Two| E[Result 2] ganttsection SectionCompleted :done, des1, 2014-01-06,2014-01-08Active :active, des2, 2014-01-07, 3dParallel 1 : des3, after des1, 1dParallel 2 : des4, after des1, 1dParallel 3 : des5, after des3, 1dParallel 4 : des6, after des4, 1d classDiagramClass01 &amp;lt;|-- AveryLongClass : Cool&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01Class09 --&amp;gt; C2 : Where am i?</description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-
-    
-  </channel>
-</rss>

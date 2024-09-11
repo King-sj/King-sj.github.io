@@ -1,220 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>diagram on Hugo Zzo Theme</title>
-    <link>http://King-sj.github.io/en/categories/diagram/</link>
-    <description>Recent content in diagram on Hugo Zzo Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>2175616761@qq.com (KSJ)</managingEditor>
-    <webMaster>2175616761@qq.com (KSJ)</webMaster>
-    <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 21:00:06 +0900</lastBuildDate>
-    
-        <atom:link href="http://King-sj.github.io/en/categories/diagram/index.xml" rel="self" type="application/rss+xml" />
-    
-
-      
-      <item>
-        <title>Viz support</title>
-        <link>http://King-sj.github.io/en/posts/test-viz/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-viz/</guid>
-        <description> digraph G {subgraph cluster_0 {style=filled;color=lightgrey;node [style=filled,color=white];a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3;label = &amp;#34;process #1&amp;#34;;}subgraph cluster_1 {node [style=filled];b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3;label = &amp;#34;process #2&amp;#34;;color=blue}start -&amp;gt; a0;start -&amp;gt; b0;a1 -&amp;gt; b3;b2 -&amp;gt; a3;a3 -&amp;gt; a0;a3 -&amp;gt; end;b3 -&amp;gt; end;start [shape=Mdiamond];end [shape=Msquare];} </description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Wavedrom support</title>
-        <link>http://King-sj.github.io/en/posts/test-wavedrom/</link>
-        <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-wavedrom/</guid>
-        <description>{ &amp;#34;signal&amp;#34;: [ {&amp;#34;name&amp;#34;: &amp;#34;CLK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;p.....|...&amp;#34;},{&amp;#34;name&amp;#34;:&amp;#34;DAT&amp;#34;, &amp;#34;wave&amp;#34;:&amp;#34;x.345x|=.x&amp;#34;, &amp;#34;data&amp;#34;:[&amp;#34;A&amp;#34;,&amp;#34;B&amp;#34;,&amp;#34;C&amp;#34;,&amp;#34;D&amp;#34;]},{&amp;#34;name&amp;#34;: &amp;#34;REQ&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;0.1..0|1.0&amp;#34;},{},{&amp;#34;name&amp;#34;: &amp;#34;ACK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;1.....|01.&amp;#34;}]} </description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature1/wave.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Chart support</title>
-        <link>http://King-sj.github.io/en/posts/test-chartjs/</link>
-        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-chartjs/</guid>
-        <description>{&amp;#34;type&amp;#34;: &amp;#34;bar&amp;#34;,&amp;#34;data&amp;#34;: {&amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;],&amp;#34;datasets&amp;#34;: [{&amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;,&amp;#34;data&amp;#34;: [12, 19, 3, 5, 3, 8]}]}} {&amp;#34;type&amp;#34;: &amp;#34;line&amp;#34;,&amp;#34;data&amp;#34;: {&amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;],&amp;#34;datasets&amp;#34;: [{&amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;,&amp;#34;data&amp;#34;: [12, 19, 3, 5, 2, 3],&amp;#34;backgroundColor&amp;#34;:&amp;#34;transparent&amp;#34;,&amp;#34;borderColor&amp;#34;:&amp;#34;orange&amp;#34;},{&amp;#34;label&amp;#34;: &amp;#34;Some other set&amp;#34;,&amp;#34;data&amp;#34;: [15, 8, 13, 5, 5, 9],&amp;#34;backgroundColor&amp;#34;:&amp;#34;transparent&amp;#34;,&amp;#34;borderColor&amp;#34;:&amp;#34;#44ccff&amp;#34;}]}} </description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>JS Sequence Diagram support</title>
-        <link>http://King-sj.github.io/en/posts/test-js-sequence-diagrams/</link>
-        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-js-sequence-diagrams/</guid>
-        <description>Alice-&amp;gt;Bob: Hello Bob, how are you?Note right of Bob: Bob thinksBob--&amp;gt;Alice: I am good thanks! Title: Here is a titleA-&amp;gt;B: Normal lineB--&amp;gt;C: Dashed lineC-&amp;gt;&amp;gt;D: Open arrowD--&amp;gt;&amp;gt;A: Dashed open arrow </description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature2/transfer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Mermaid support</title>
-        <link>http://King-sj.github.io/en/posts/test-mermaid/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-mermaid/</guid>
-        <description>graph TD;A--&amp;gt;B;A--&amp;gt;C;B--&amp;gt;D;C--&amp;gt;D; sequenceDiagramparticipant Aliceparticipant BobAlice-&amp;gt;John: Hello John, how are you?loop HealthcheckJohn-&amp;gt;John: Fight against hypochondriaendNote right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...John--&amp;gt;Alice: Great!John-&amp;gt;Bob: How about you?Bob--&amp;gt;John: Jolly good! graph TDA[Hard] --&amp;gt;|Text| B(Round)B --&amp;gt; C{Decision}C --&amp;gt;|One| D[Result 1]C --&amp;gt;|Two| E[Result 2] ganttsection SectionCompleted :done, des1, 2014-01-06,2014-01-08Active :active, des2, 2014-01-07, 3dParallel 1 : des3, after des1, 1dParallel 2 : des4, after des1, 1dParallel 3 : des5, after des3, 1dParallel 4 : des6, after des4, 1d classDiagramClass01 &amp;lt;|-- AveryLongClass : Cool&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01Class09 --&amp;gt; C2 : Where am i?</description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature2/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Flowchart support</title>
-        <link>http://King-sj.github.io/en/posts/test-flowchart/</link>
-        <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
-        <author>2175616761@qq.com (KSJ)</author>
-        <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
-        <guid>http://King-sj.github.io/en/posts/test-flowchart/</guid>
-        <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank]e=&amp;gt;end: End|future:&amp;gt;http://www.google.comop1=&amp;gt;operation: My Operation|pastop2=&amp;gt;operation: Stuff|currentsub1=&amp;gt;subroutine: My Subroutine|invalidcond=&amp;gt;condition: Yesor No?|approved:&amp;gt;http://www.google.comc2=&amp;gt;condition: Good idea|rejectedio=&amp;gt;inputoutput: catch something...|futurest-&amp;gt;op1(right)-&amp;gt;condcond(yes, right)-&amp;gt;c2cond(no)-&amp;gt;sub1(left)-&amp;gt;op1c2(yes)-&amp;gt;io-&amp;gt;ec2(no)-&amp;gt;op2-&amp;gt;e </description>
-        
-        <dc:creator>KSJ</dc:creator>
-        <media:content url="http://King-sj.github.io/images/feature1/flowchart.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>diagram</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-
-    
-  </channel>
-</rss>
